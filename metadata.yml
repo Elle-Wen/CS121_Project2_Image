@@ -1,0 +1,12 @@
+---
+:id: 49213550
+:submitters:
+- :name: Elle Wen
+  :email: welle@reed.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-14 06:23:30.709810000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-13 23:23:30.709810000 Z
+:status: processed
+:score: 100.0
